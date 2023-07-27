@@ -13,7 +13,7 @@ Last updated date: July 27th, 2023
 -Hard Drive: 1T-Byte M2 SSD<br />
 
 ## Operation System:
--Windows 10
+-Windows 10<br />
 
 # Setup Steps
 
@@ -64,4 +64,5 @@ Jupyter notebook is a free and open standards for interactive compution across a
 pip install jupyter
 ```
 
+Detail information about Jupyter can be checked in [Jupyter official website](https://jupyter.org/)
 

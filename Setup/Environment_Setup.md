@@ -7,10 +7,10 @@ Last updated date: July 27th, 2023
 # Platform
 
 ## Hardware
--CPU: intel i5-13600k
--GPU: RTX-3060 with 12G-byte RAM
--System RAM: 16G-byte
--Hard Drive: 1T-Byte M2 SSD
+-CPU: intel i5-13600k<br />
+-GPU: RTX-3060 with 12G-byte RAM<br />
+-System RAM: 16G-byte<br />
+-Hard Drive: 1T-Byte M2 SSD<br />
 
 ## Operation System:
 -Windows 10
